@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<libraryInfos>
+<libraryInfo home="F:\JDK7" version="1.7.0_51">
+<bootpath>
+<entry path="F:\JDK7\jre\lib\resources.jar"/>
+<entry path="F:\JDK7\jre\lib\rt.jar"/>
+<entry path="F:\JDK7\jre\lib\sunrsasign.jar"/>
+<entry path="F:\JDK7\jre\lib\jsse.jar"/>
+<entry path="F:\JDK7\jre\lib\jce.jar"/>
+<entry path="F:\JDK7\jre\lib\charsets.jar"/>
+<entry path="F:\JDK7\jre\lib\jfr.jar"/>
+<entry path="F:\JDK7\jre\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\JDK7\jre\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\JDK7\jre\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+<libraryInfo home="F:\JDK7\JRE" version="1.7.0_51">
+<bootpath>
+<entry path="F:\JDK7\JRE\lib\resources.jar"/>
+<entry path="F:\JDK7\JRE\lib\rt.jar"/>
+<entry path="F:\JDK7\JRE\lib\sunrsasign.jar"/>
+<entry path="F:\JDK7\JRE\lib\jsse.jar"/>
+<entry path="F:\JDK7\JRE\lib\jce.jar"/>
+<entry path="F:\JDK7\JRE\lib\charsets.jar"/>
+<entry path="F:\JDK7\JRE\lib\jfr.jar"/>
+<entry path="F:\JDK7\JRE\classes"/>
+</bootpath>
+<extensionDirs>
+<entry path="F:\JDK7\JRE\lib\ext"/>
+<entry path="C:\Windows\Sun\Java\lib\ext"/>
+</extensionDirs>
+<endorsedDirs>
+<entry path="F:\JDK7\JRE\lib\endorsed"/>
+</endorsedDirs>
+</libraryInfo>
+</libraryInfos>
